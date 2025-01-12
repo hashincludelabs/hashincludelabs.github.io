@@ -772,4 +772,5 @@ a:visited {
         margin: 0 0 15px;
     }
 
+    img[alt="HyperLogLog Redis"] { width: 200px; }
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On distribution of streaming media (part-2)"
-date:   2025-01-12 10:00:35 +0000
+date:   2025-01-13 10:00:35 +0000
 ---
 Distribution of streaming media is best done over HLS or MPEG-DASH. Modern browsers are equipped to handle media streams, the `<video/>` component of HTML5 with media source extensions can play HLS seamlessly. HLS works on HTTP/S (which is just TCP underneath). The media delivery backend could simply be an nginx server, configured to distribute steaming media over HTTP.
 
@@ -52,6 +52,10 @@ cwc11_final-720p.m3u8
 
 The master playlist file contains details about the other media playlist files in various resolutions available. When a client (browser) asks for this media, the server responds with the master playlist file. This is when the media source extensions in the browser gets to know about all the available resolutions and corresponding bit rates, which the browser will adapt to, depending on the network speed available on the client device. Higher the bandwidth, the browser will use the 720p m3u8 playlist file to fetch the 720p media segments and lower the bandwidth the browser may fall back to 240p. This is known as adaptive steaming over HTTP. The tiny media segments will be delivered to the client ahead of time and played in sequence. 
 
+[Part one of this article](https://hashincludelabs.github.io/2025/01/12/streaming-media/)
+
 <img src="{{site.baseurl}}/assets/dist-streaming-1.png" width=850 />
 
 <img src="{{site.baseurl}}/assets/dist-streaming-2.png" width=850 />
+
+Interested to read more about how video works? There is a [site](https://howvideo.works/) just for that.

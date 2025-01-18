@@ -5,7 +5,7 @@ date:   2025-01-18 10:00:35 +0000
 ---
 Tensors are (multi-dimentional) numerical data structures that can represent physical properties.
 
-I created this visual representation of how tensors looks through different dimentions.
+I created this visual representation of how tensors look through different dimensions.
 
 Watch this [awesome video on tensors](https://www.youtube.com/watch?v=f5liqUk0ZTw) by Dan Fleisch.
 

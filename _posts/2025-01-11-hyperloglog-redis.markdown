@@ -7,7 +7,7 @@ date:   2025-01-11 10:00:35 +0000
 
 HyperLogLog is a probabilistic data structure in Redis.
 
-It is actually an algorithm for the count-distinct problem. [HyperLogLog on Wikipedia.](https://en.wikipedia.org/wiki/HyperLogLog)**
+It is actually an algorithm for the count-distinct problem. [HyperLogLog on Wikipedia.](https://en.wikipedia.org/wiki/HyperLogLog)
 
 It's used as a Redis data type but has nothing to do with logs; it estimates cardinality of a data set, which means, counting unique values in the collection.
 
@@ -45,4 +45,4 @@ Example,
 PFMERGE newHLL oldHLL1 oldHLL2
 ```
 
-If you are wondering why the commands are prefixed with PF, it's in honor of Philippe Flajolet, the French computer scientist, who along with his colleagues invented the HyperLogLog algorithm for near-optimal cardinality estimation. [Link to riginal paper.]( https://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
+If you are wondering why the commands are prefixed with PF, it's in honor of Philippe Flajolet, the French computer scientist, who along with his colleagues invented the HyperLogLog algorithm for near-optimal cardinality estimation. [Link to original paper.]( https://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)

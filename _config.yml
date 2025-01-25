@@ -1,11 +1,11 @@
 # Site settings
-title: tensorbeing
-email: tensorbeing@gmail.com
+title: tech by saurav
+email: hashincludesoftwarelabs@gmail.com
 description: "Musings of a curious techie."
 baseurl: ""
-url: "http://tensorbeing.github.io"
-twitter_username: tensorbeing
-github_username:  tensorbeing
+url: "http://hashincludelabs.github.io"
+twitter_username: justsorav
+github_username:  hashincludelabs
 
 # Build settings
 markdown: kramdown

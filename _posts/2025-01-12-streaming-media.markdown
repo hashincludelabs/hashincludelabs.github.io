@@ -11,6 +11,6 @@ What could be the bottlenecks?
 
 <img src="{{site.baseurl}}/assets/streaming_media.png" width=850 />
 
-Part two of this article [here](https://tensorbeing.github.io/2025/01/13/streaming-media-2/), about using [FFmpeg](https://www.ffmpeg.org/).
+Part two of this article [here](https://hashincludelabs.github.io/2025/01/13/streaming-media-2/), about using [FFmpeg](https://www.ffmpeg.org/).
 
 Interested to read more about how video works? There is a [site](https://howvideo.works/) just for that.

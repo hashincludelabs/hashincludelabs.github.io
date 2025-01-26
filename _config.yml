@@ -1,11 +1,11 @@
 # Site settings
 title: tech by saurav
-email: hashincludesoftwarelabs@gmail.com
+email: 
 description: "Musings of a curious techie."
 baseurl: ""
-url: "http://hashincludelabs.github.io"
-twitter_username: hashincludelabs
-github_username:  hashincludelabs
+url: "http://sauravfyi.github.io"
+twitter_username: sauravfyi
+github_username:  sauravfyi
 
 # Build settings
 markdown: kramdown

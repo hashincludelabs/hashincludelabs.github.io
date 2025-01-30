@@ -3,9 +3,9 @@ title: tech by saurav
 email: 
 description: "Musings of a curious techie."
 baseurl: ""
-url: "http://sauravfyi.github.io"
-twitter_username: sauravfyi
-github_username:  sauravfyi
+url: "http://hashincludelabs.github.io"
+twitter_username: hashincludelabs
+github_username:  hashincludelabs
 
 # Build settings
 markdown: kramdown

@@ -52,7 +52,7 @@ cwc11_final-720p.m3u8
 
 The master playlist file contains details about the other media playlist files in various resolutions available. When a client (browser) asks for this media, the server responds with the master playlist file. This is when the media source extensions in the browser gets to know about all the available resolutions and corresponding bit rates, which the browser will adapt to, depending on the network speed available on the client device. Higher the bandwidth, the browser will use the 720p m3u8 playlist file to fetch the 720p media segments and lower the bandwidth the browser may fall back to 240p. This is known as adaptive steaming over HTTP. The tiny media segments will be delivered to the client ahead of time and played in sequence. 
 
-[Part one of this article](https://sauravfyi.github.io/2025/01/12/streaming-media/)
+[Part one of this article](https://hashincludelabs.github.io/2025/01/12/streaming-media/)
 
 <img src="{{site.baseurl}}/assets/dist-streaming-1.png" width=850 />
 

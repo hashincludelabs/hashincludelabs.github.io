@@ -7,7 +7,7 @@ includelink: true
 
 I am collecting some awesome AI, math and related lectures from YouTube, by experts in the domain, eminent universities and institutions!
 
-[Deep Generative Models by Prathosh AP, Indian Insttute of Science, Bangalore](https://www.youtube.com/watch?v=dNJsaX0C1fg&list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r&index=34)
+[Deep Generative Models by Prathosh AP, Indian Institute of Science, Bangalore](https://www.youtube.com/watch?v=dNJsaX0C1fg&list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r&index=34)
 
 [LLM Agents MOOC - Berkley RDI Center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
 

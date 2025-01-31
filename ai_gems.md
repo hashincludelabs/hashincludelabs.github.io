@@ -13,7 +13,7 @@ I am collecting some awesome AI, math and related lectures from YouTube!
 
 [Building Large Language Models - Stanford Online](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
-[Variational Autoencoder - Ahlad Kumar](https://www.youtube.com/playlist?list=PLHS_M-BP-hyDNgcJWTY1ioQ4VXKV5kqpP)
+[Variational Autoencoder - Ahlad Kumar](https://www.youtube.com/watch?v=w8F7_rQZxXk&list=PLdxQ7SoCLQANizknbIiHzL_hYjEaI-wUe)
 
 [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 

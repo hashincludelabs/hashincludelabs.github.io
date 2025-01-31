@@ -5,7 +5,7 @@ permalink: /ai-gems/
 includelink: true
 ---
 
-I am collecting some awesome AI, math and related lectures from YouTube, by experts in the domain, eminent universities and institutions!
+I am collecting some awesome AI, math and related lectures from YouTube!
 
 [Deep Generative Models by Prathosh AP, Indian Institute of Science, Bangalore](https://www.youtube.com/watch?v=dNJsaX0C1fg&list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r&index=34)
 
@@ -13,7 +13,7 @@ I am collecting some awesome AI, math and related lectures from YouTube, by expe
 
 [Building Large Language Models - Stanford Online](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
-[Variational Autoencoder - Lee Chun Wei](https://www.youtube.com/playlist?list=PLHS_M-BP-hyDNgcJWTY1ioQ4VXKV5kqpP)
+[Variational Autoencoder - Ahlad Kumar](https://www.youtube.com/playlist?list=PLHS_M-BP-hyDNgcJWTY1ioQ4VXKV5kqpP)
 
 [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 

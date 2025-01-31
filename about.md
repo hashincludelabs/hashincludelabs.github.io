@@ -8,8 +8,10 @@ My name is Saurav, I live in India, I am an engineer by profession and I am inte
 
 I have worked as a software engineer for more than a decade on enterprise systems in domains like supply chain, manufacturing, real estate; and developed B2B software products for drone mobility, IoT connectivity platforms, etc.
 
-I have developed (and delivered) quite a use-case in Generative AI and agentic workflow in enterprise employee engagement, as a workplace assistant.
+I have developed (and delivered) quite a use-case in 2024-2025 in Generative AI and agentic workflows with my previous team, built a workplace assistant for employee engagement.
 
-In my role as a software engineer, I believe that a software engineer should be also be good designer and have the mindset product manager, on top on having good engineering skills. I try to bridge these gaps on the products or services I work on.
+In my role as a software engineer, I believe that a software engineer should also be good designer and have the mindset of a product manager, besides having good engineering skills. I try to bridge these gaps on the products or services I work on.
 
 More about my experience on [LinkedIn.](https://www.linkedin.com/in/sauravdey/).
+
+Happy to connect!

@@ -1,12 +1,12 @@
 # Site settings
-title: "hashinclude!"
+title: "boring software"
 name: Saurav Dey
 email: 
 description: "AI, tech and other boring stuff."
 baseurl: ""
-url: "http://hashincludelabs.github.io"
-twitter_username: hashincludelabs
-github_username:  hashincludelabs
+url: "http://boringsoftwarefyi.github.io"
+twitter_username: boring_software
+github_username:  boringsoftwarefyi
 
 # Build settings
 markdown: kramdown

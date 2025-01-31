@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Gems
+title: 💎 AI Gems
 permalink: /ai-gems/
 includelink: true
 ---

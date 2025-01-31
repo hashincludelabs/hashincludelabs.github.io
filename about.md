@@ -4,5 +4,12 @@ title: About
 permalink: /about/
 includelink: true
 ---
+My name is Saurav, I live in India, I am an engineer by profession and I am interested in AI, quant and emerging technologies.
 
-See my [LinkedIn](https://www.linkedin.com/in/sauravdey/).
+I have worked as a software engineer for more than a decade on enterprise systems in domains like supply chain, manufacturing, real estate; and developed B2B software products for drone mobility, IoT connectivity platforms, etc.
+
+I have developed (and delivered) quite a use-case in Generative AI and agentic workflow in enterprise employee engagement, as a workplace assistant.
+
+In my role as a software engineer, I believe that a software engineer should be also be good designer and have the mindset product manager, on top on having good engineering skills. I try to bridge these gaps on the products or services I work on.
+
+More about my experience on [LinkedIn.](https://www.linkedin.com/in/sauravdey/).

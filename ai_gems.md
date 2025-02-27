@@ -5,7 +5,7 @@ permalink: /ai-gems/
 includelink: true
 ---
 
-I am collecting some awesome AI, math and related lectures from the blogs, websites, YouTube, etc!
+I am collecting some awesome AI, math and related content from blogs, websites, YouTube, etc!
 
 [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=3790s)
 

@@ -5,7 +5,7 @@ permalink: /ai-gems/
 includelink: true
 ---
 
-I am collecting some awesome AI, math and related lectures from YouTube!
+I am collecting some awesome AI, math and related lectures from the blogs, websites, YouTube, etc!
 
 [MLOPs to ML Systems by hopswork.ai](https://www.hopsworks.ai/post/mlops-to-ml-systems-with-fti-pipelines)
 

@@ -7,6 +7,8 @@ includelink: true
 
 I am collecting some awesome AI, math and related lectures from the blogs, websites, YouTube, etc!
 
+[Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=3790s)
+
 [MLOPs to ML Systems by hopswork.ai](https://www.hopsworks.ai/post/mlops-to-ml-systems-with-fti-pipelines)
 
 [Transformers from scratch by brandonrohrer.com](https://www.brandonrohrer.com/transformers)

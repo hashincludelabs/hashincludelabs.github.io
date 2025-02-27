@@ -7,6 +7,12 @@ includelink: true
 
 I am collecting some awesome AI, math and related lectures from YouTube!
 
+[MLOPs to ML Systems by hopswork.ai](https://www.hopsworks.ai/post/mlops-to-ml-systems-with-fti-pipelines)
+
+[Transformers from scratch by brandonrohrer.com](https://www.brandonrohrer.com/transformers)
+
+[Diffusion Models and their applications, KAIST](https://www.youtube.com/playlist?list=PLyi5FHzX7hBxtkKUZLRdiq5C01QimCno2)
+
 [Deep Generative Models by Prathosh AP, Indian Institute of Science, Bangalore](https://www.youtube.com/watch?v=dNJsaX0C1fg&list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r&index=34)
 
 [LLM Agents MOOC - Berkley RDI Center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
